@@ -1,0 +1,11 @@
+{
+  "language": "en",
+  "duration": 100.0,
+  "segments": [
+    {"start": 0.0, "end": 12.0, "text": "Today we are going to discuss binary search trees."},
+    {"start": 12.0, "end": 30.0, "text": "A binary search tree stores smaller values in the left subtree and larger values in the right subtree."},
+    {"start": 30.0, "end": 55.0, "text": "Searching takes time proportional to the height h of the tree, so the cost is O(h). For a balanced tree with n nodes, h is roughly log base 2 of n."},
+    {"start": 55.0, "end": 80.0, "text": "For example, if we insert 8, then 3, then 10 in that order, then 3 is the left child of 8 and 10 is the right child of 8."},
+    {"start": 80.0, "end": 100.0, "text": "Before we finish, please remember that the lab report on binary search trees must be submitted next Friday."}
+  ]
+}
